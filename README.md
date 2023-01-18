@@ -10,15 +10,25 @@ dependencies: firebase_auth: ^4.2.0 cloud_firestore: ^4.2.0 google_fonts: ^3.0.1
 the current app has the following functionnalities:
 
 sign in & sign up
+
 change & forget password
+
 add & delete projects
+
 add & delete members
+
 add & delete reminders
+
 add & delete tasks
+
 consulting events & adding them to a calendar (half functional)
+
 Adding a member in a project , adds automatically that project to his current projects
+
 Every project has a qr code that when scanned by another used adds him to the members of that project
+
 chat (half functional)
+
 The backend is hosted on Render so it only works when my machine is functionning as a server. Please contact me when you want to try it.
 
 Video link : https://drive.google.com/drive/folders/1jP6GcVCw0SYi9yVWuTCl2LeZRt0Jaf4w?fbclid=IwAR2ku1dgjTcPOAYSVUfWO2RSmjRF7ggN060J0wAED8u7wZRhYDPs2EgwDOE
